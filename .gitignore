@@ -1,0 +1,8 @@
+.vs
+Backup
+obj
+bin
+SmartTester_v1
+*.htm*
+*.suo
+

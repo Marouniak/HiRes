@@ -1,0 +1,133 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{8F7EACDA-42B6-44E6-8E82-84ECDE337AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemFramework", "SystemFramework\SystemFramework.csproj", "{80C66231-B52B-47D2-BA59-5CF4D956F1EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{ECF588AA-C307-4CA4-9C95-FFB969869AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentFramework", "PaymentFramework\PaymentFramework.csproj", "{2673682A-687D-481A-8C8C-006E451524CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipManager", "ShipManager\ShipManager.csproj", "{6A64B753-9792-4632-A48B-CA9184DEBCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailingSystem", "MailingSystem\MailingSystem.csproj", "{D5D0217B-206A-495A-B5BE-5F9F9374E153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRules", "BusinessRules\BusinessRules.csproj", "{ABE7B982-BF6F-4699-92FC-E7659C1A5B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessFacade", "BusinessFacade\BusinessFacade.csproj", "{8ADF7EC3-FE58-4097-A3A8-7B2EBD78C157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCommon", "WebCommon\WebCommon.csproj", "{A6B5C63D-4E19-4677-AE12-BD6D723A5DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiResPrintings", "http://localhost/HiResPrintings/HiResPrintings.csproj", "{C054ED94-71CB-4DA9-A0A4-B8321BA7081A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalSystem", "http://localhost/InternalSystem/InternalSystem.csproj", "{15ADB359-6A08-4FB7-A363-3143F9AB6715}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 12
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {82E981B9-33CB-4D32-B9A1-525429D24A30}
+		SccProjectUniqueName1 = http://localhost/HiResPrintings/HiResPrintings.csproj
+		SccProjectName1 = \u0022$/HiResSites/HiResPrintings\u0022,\u0020BCDAAAAA
+		SccLocalPath1 = ..\\..\\Inetpub\\wwwroot\\HiResPrintings
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = http://localhost/InternalSystem/InternalSystem.csproj
+		SccProjectName2 = \u0022$/HiResSites/InternalSystem\u0022,\u0020CCDAAAAA
+		SccLocalPath2 = ..\\..\\Inetpub\\wwwroot\\InternalSystem
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice2 = 2
+		SccProjectUniqueName3 = BusinessFacade\\BusinessFacade.csproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = BusinessFacade\\
+		SccProjectUniqueName4 = BusinessRules\\BusinessRules.csproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = BusinessRules\\
+		SccProjectUniqueName5 = Common\\Common.csproj
+		SccLocalPath5 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection5 = Common\\
+		SccProjectUniqueName6 = DataAccessLayer\\DataAccessLayer.csproj
+		SccLocalPath6 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection6 = DataAccessLayer\\
+		SccProjectUniqueName7 = MailingSystem\\MailingSystem.csproj
+		SccLocalPath7 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection7 = MailingSystem\\
+		SccProjectUniqueName8 = PaymentFramework\\PaymentFramework.csproj
+		SccLocalPath8 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection8 = PaymentFramework\\
+		SccProjectUniqueName9 = ShipManager\\ShipManager.csproj
+		SccLocalPath9 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection9 = ShipManager\\
+		SccProjectUniqueName10 = SystemFramework\\SystemFramework.csproj
+		SccLocalPath10 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection10 = SystemFramework\\
+		SccProjectUniqueName11 = WebCommon\\WebCommon.csproj
+		SccLocalPath11 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection11 = WebCommon\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8F7EACDA-42B6-44E6-8E82-84ECDE337AF1}.Debug.ActiveCfg = Debug|.NET
+		{8F7EACDA-42B6-44E6-8E82-84ECDE337AF1}.Debug.Build.0 = Debug|.NET
+		{8F7EACDA-42B6-44E6-8E82-84ECDE337AF1}.Release.ActiveCfg = Release|.NET
+		{8F7EACDA-42B6-44E6-8E82-84ECDE337AF1}.Release.Build.0 = Release|.NET
+		{80C66231-B52B-47D2-BA59-5CF4D956F1EA}.Debug.ActiveCfg = Debug|.NET
+		{80C66231-B52B-47D2-BA59-5CF4D956F1EA}.Debug.Build.0 = Debug|.NET
+		{80C66231-B52B-47D2-BA59-5CF4D956F1EA}.Release.ActiveCfg = Release|.NET
+		{80C66231-B52B-47D2-BA59-5CF4D956F1EA}.Release.Build.0 = Release|.NET
+		{ECF588AA-C307-4CA4-9C95-FFB969869AE2}.Debug.ActiveCfg = Debug|.NET
+		{ECF588AA-C307-4CA4-9C95-FFB969869AE2}.Debug.Build.0 = Debug|.NET
+		{ECF588AA-C307-4CA4-9C95-FFB969869AE2}.Release.ActiveCfg = Release|.NET
+		{ECF588AA-C307-4CA4-9C95-FFB969869AE2}.Release.Build.0 = Release|.NET
+		{2673682A-687D-481A-8C8C-006E451524CC}.Debug.ActiveCfg = Debug|.NET
+		{2673682A-687D-481A-8C8C-006E451524CC}.Debug.Build.0 = Debug|.NET
+		{2673682A-687D-481A-8C8C-006E451524CC}.Release.ActiveCfg = Release|.NET
+		{2673682A-687D-481A-8C8C-006E451524CC}.Release.Build.0 = Release|.NET
+		{6A64B753-9792-4632-A48B-CA9184DEBCA6}.Debug.ActiveCfg = Debug|.NET
+		{6A64B753-9792-4632-A48B-CA9184DEBCA6}.Debug.Build.0 = Debug|.NET
+		{6A64B753-9792-4632-A48B-CA9184DEBCA6}.Release.ActiveCfg = Release|.NET
+		{6A64B753-9792-4632-A48B-CA9184DEBCA6}.Release.Build.0 = Release|.NET
+		{D5D0217B-206A-495A-B5BE-5F9F9374E153}.Debug.ActiveCfg = Debug|.NET
+		{D5D0217B-206A-495A-B5BE-5F9F9374E153}.Debug.Build.0 = Debug|.NET
+		{D5D0217B-206A-495A-B5BE-5F9F9374E153}.Release.ActiveCfg = Release|.NET
+		{D5D0217B-206A-495A-B5BE-5F9F9374E153}.Release.Build.0 = Release|.NET
+		{ABE7B982-BF6F-4699-92FC-E7659C1A5B07}.Debug.ActiveCfg = Debug|.NET
+		{ABE7B982-BF6F-4699-92FC-E7659C1A5B07}.Debug.Build.0 = Debug|.NET
+		{ABE7B982-BF6F-4699-92FC-E7659C1A5B07}.Release.ActiveCfg = Release|.NET
+		{ABE7B982-BF6F-4699-92FC-E7659C1A5B07}.Release.Build.0 = Release|.NET
+		{8ADF7EC3-FE58-4097-A3A8-7B2EBD78C157}.Debug.ActiveCfg = Debug|.NET
+		{8ADF7EC3-FE58-4097-A3A8-7B2EBD78C157}.Debug.Build.0 = Debug|.NET
+		{8ADF7EC3-FE58-4097-A3A8-7B2EBD78C157}.Release.ActiveCfg = Release|.NET
+		{8ADF7EC3-FE58-4097-A3A8-7B2EBD78C157}.Release.Build.0 = Release|.NET
+		{A6B5C63D-4E19-4677-AE12-BD6D723A5DA1}.Debug.ActiveCfg = Debug|.NET
+		{A6B5C63D-4E19-4677-AE12-BD6D723A5DA1}.Debug.Build.0 = Debug|.NET
+		{A6B5C63D-4E19-4677-AE12-BD6D723A5DA1}.Release.ActiveCfg = Release|.NET
+		{A6B5C63D-4E19-4677-AE12-BD6D723A5DA1}.Release.Build.0 = Release|.NET
+		{C054ED94-71CB-4DA9-A0A4-B8321BA7081A}.Debug.ActiveCfg = Debug|.NET
+		{C054ED94-71CB-4DA9-A0A4-B8321BA7081A}.Debug.Build.0 = Debug|.NET
+		{C054ED94-71CB-4DA9-A0A4-B8321BA7081A}.Release.ActiveCfg = Release|.NET
+		{C054ED94-71CB-4DA9-A0A4-B8321BA7081A}.Release.Build.0 = Release|.NET
+		{15ADB359-6A08-4FB7-A363-3143F9AB6715}.Debug.ActiveCfg = Debug|.NET
+		{15ADB359-6A08-4FB7-A363-3143F9AB6715}.Debug.Build.0 = Debug|.NET
+		{15ADB359-6A08-4FB7-A363-3143F9AB6715}.Release.ActiveCfg = Release|.NET
+		{15ADB359-6A08-4FB7-A363-3143F9AB6715}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

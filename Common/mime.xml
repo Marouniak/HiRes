@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<MIME>
+	<map key="gif" value="image/gif"/>
+	<map key="jpg" value="image/jpeg"/>
+	<map key="jpe" value="image/jpeg"/>
+	<map key="jpeg" value="image/jpeg"/>
+	<map key="tif" value="image/tiff"/>
+	<map key="tiff" value="image/tiff"/>
+	<map key="bmp" value="image/x-ms-bmp"/>
+	<map key="zip" value="application/zip"/>
+	<map key="rtf" value="application/rtf"/>
+	<map key="doc" value="application/msword"/>
+	<map key="pdf" value="application/pdf"/>
+</MIME>
